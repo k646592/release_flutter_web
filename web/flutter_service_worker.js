@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "2a781a0ac9710ca599fdd3c6f24d1429",
+const RESOURCES = {"flutter_bootstrap.js": "833f584f533dff53a247cc018d5b7010",
 "version.json": "b0fd9a463b4c1d1abd6443f290b97cb2",
-"index.html": "14ba7ff77816d4f8a6cf5d476a415b42",
-"/": "14ba7ff77816d4f8a6cf5d476a415b42",
-"main.dart.js": "9652632400a93860d59875e9a3eb191c",
+"index.html": "111991fb56b2be0b3c258b5261523766",
+"/": "111991fb56b2be0b3c258b5261523766",
+"main.dart.js": "3dd25994a9efbf242381416071e54c09",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "labmaid_favicon_touka.png": "4f4bcb6a14392a21325d75771050a2de",
